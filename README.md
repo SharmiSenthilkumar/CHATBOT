@@ -37,3 +37,4 @@ This task prepares interns for more advanced AI and NLP projects by building a s
 In conclusion, this project is a practical, educational, and engaging way to explore the world of Natural Language Processing and AI through chatbot development. It helps students and developers understand how conversational systems work and lays the foundation for more advanced applications in customer service, virtual assistants, and AI research.
 
 ****OUTPUT****
+![Image](https://github.com/user-attachments/assets/98af0758-cce5-4ef5-a964-35f3b2540e86)
